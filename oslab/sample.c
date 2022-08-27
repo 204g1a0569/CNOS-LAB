@@ -6,8 +6,10 @@ Name : PALLAVI
 //source code
 
 #include<stdio.h>
-int main()
+void main()
 {
-  printf("HELLO WORLD");
-  return 0;
+  printf("HELLO PALLAVI");
+  printf("Hope you are doing good")
+  
+  
 }
