@@ -6,8 +6,16 @@ Name : PALLAVI
 //source code
 
 #include<stdio.h>
-int main()
+//function defintion
+void welcome(){
+  printf("Welcome to the Page");
+}
+void main()
 {
-  printf("HELLO WORLD");
-  return 0;
+  printf("HELLO PALLAVI");
+  printf("Hope you are doing good");
+  
+//function call
+  welcome();
+  
 }
